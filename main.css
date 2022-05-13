@@ -24,4 +24,9 @@ body{
     position: left;
     color: black;
 }
-
+.Info{
+    color: white;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
