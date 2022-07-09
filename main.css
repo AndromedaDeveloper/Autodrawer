@@ -16,17 +16,27 @@ body{
     line-height: 58px;
     display: flex;
     align-items: center;
-    text-align: center;
-    
+   
     color: #FFFFFF;
+    text-align: center;
 }
 .EmailUsButton{
-    position: left;
+    position: center;
     color: black;
+    text-align: center;
+    align-items: center;
+    align-self: center;
 }
 .Info{
     color: white;
     font-size: medium;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
     
+}
+.slogan{
+    color: white;
+    font-size: small;
+    position: top;
+    text-align: center;
 }
